@@ -20,7 +20,7 @@ h2 {
   padding-bottom: 3px;
 }
 h3 {
-  color: rgb(63, 81, 181);
+  color: rgb(0, 150, 136);
   font-size: 36px;
   margin: 4px 0 10px 0;
   padding-bottom: 3px;
@@ -71,8 +71,15 @@ ul {
   float: right;
   max-width: 35%;
 }
+.alternative-image {
+  margin: 0 auto;
+  width: 60px;
+  display: block;
+  float: right;
+  max-width: 35%;
+}
 .goal {
-  color: rgb(63, 81, 181);
+  color: rgb(0, 150, 136);
   font-weight: bold;
 }
 .lead {
@@ -85,7 +92,7 @@ ul {
   margin-right: auto;
 }
 .activity-button {
-  background-color: rgb(63, 81, 181);
+  background-color: rgb(0, 150, 136);
   border: none;
   color: white;
   padding: 15px 32px;
